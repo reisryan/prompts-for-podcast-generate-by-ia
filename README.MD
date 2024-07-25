@@ -15,9 +15,8 @@
 </p>
 
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+
+[Audio do Podcast](https://chat.openai.comgithub.com/reisryan/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.MP3)
 
 # Projeto Podcast Gerado por I.A.s
 
