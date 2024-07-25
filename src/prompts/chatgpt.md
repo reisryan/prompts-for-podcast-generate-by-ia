@@ -5,28 +5,6 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de um podcast e vamos criar um podcast acerca do magistério católico, focado nas condenações da Igreja Católica às heresias modernas. DÊ 5 SUGESTÕES DE NOMES PARA ESTE PODCAST CATÓLICO, DE FORMA CRIATIVA, COM TROCADILHO INSERINDO A PALAVRA TRAD;
-
-{REGRAS}
-O nomem deve ser enxuto, um nome e subtitulo
-o nome deve possuir alguma palavra forte que remeta a tradição ou magistério católicos.                                                   |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast do magistério católico focado nas condenações da Igreja Católica ao erro da maçonaria, conforme o documento Quo Graviora escrito por Sua Santidade Leão XIII. O publico alvo é para católicos ignorantes.
-
-o formato do roteiro deve ser
-[INTRODUÇÃO]
-[CONDENAÇÃO SOLENE REALIZADA NO DOCUMENTO PONTIFÍCIO]
-[FINALIZAÇÃO]
-
-{REGRAS}
-
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
-- no bloco [CONDENAÇÃO SOLENE REALIZADA NO DOCUMENTO PONTIFÍCIO] Resuma todo o documento Quo Graviora, do Papa Leão XIII, narre alguns trechos do documento com precisão de tradução a lingua portuguesa.
-- use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Tradizão
-- O podcast deve ser curto
-
-{REGRAS NEGATIVAS}
-
-- Não use muitos termos técnicos
-- Não ultrapasse 7 minutos de duração |
+|  título  | Você é um roteirista de um podcast e vamos criar um podcast acerca do magistério católico, focado nas condenações da Igreja Católica às heresias modernas. DÊ 5 SUGESTÕES DE NOMES PARA ESTE PODCAST CATÓLICO, DE FORMA CRIATIVA, COM TROCADILHO INSERINDO A PALAVRA TRAD; {REGRAS} O nome deve ser enxuto, um nome e subtitulo; o nome deve possuir alguma palavra forte que remeta a tradição ou magistério católicos.                                                   |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast do magistério católico focado nas condenações da Igreja Católica ao erro da maçonaria, conforme o documento Quo Graviora escrito por Sua Santidade Leão XIII. O publico alvo é para católicos ignorantes. o formato do roteiro deve ser [INTRODUÇÃO], [CONDENAÇÃO SOLENE REALIZADA NO DOCUMENTO PONTIFÍCIO] e [FINALIZAÇÃO]. {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan; - no bloco [CONDENAÇÃO SOLENE REALIZADA NO DOCUMENTO PONTIFÍCIO] Resuma todo o documento Quo Graviora, do Papa Leão XIII, narre alguns trechos do documento com precisão de tradução a lingua portuguesa. - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Tradizão - O podcast deve ser curto. {REGRAS NEGATIVAS} - Não use muitos termos técnicos; - Não ultrapasse 7 minutos de duração |
 
