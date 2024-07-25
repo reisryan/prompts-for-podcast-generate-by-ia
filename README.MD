@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        src="https://github.com/reisryan/prompts-for-podcast-generate-by-ia/blob/main/output/Usar%20o%20Texto%20M%C3%A1gico.png?raw=true" 
         alt="DIO - Code The Future">
 </a>
 
